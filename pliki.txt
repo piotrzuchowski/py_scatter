@@ -1,0 +1,2 @@
+simple scattering code: DVR wavefunction
+
